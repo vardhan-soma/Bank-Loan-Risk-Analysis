@@ -26,7 +26,6 @@ This project leverages data analytics techniques to explore various factors affe
 - **Documentation**: Documented the entire process, methodology, and key takeaways in a comprehensive report.
 
 ## 🔹 Learnings
-This project allowed me to:
 - Understand how financial institutions evaluate loan applications and assess risk.
 - Explore various data analytics techniques for financial data analysis.
 - Integrate multiple tools to streamline the process and enhance analytical capabilities.
